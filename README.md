@@ -4,9 +4,6 @@
 Ghost is a free and open source blogging platform written in JavaScript and distributed under the MIT License, designed to simplify the process of online publishing for individual bloggers as well as online publications.
 
 
-[![Deploy on PipeOps](https://pub-a1fbf367a4cd458487cfa3f29154ac93.r2.dev/Default.png)](#)
-
-
 http://en.wikipedia.org/wiki/Ghost_%28blogging_platform%29
 
 
